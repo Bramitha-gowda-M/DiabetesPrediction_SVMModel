@@ -10,7 +10,7 @@ The diabetic prediction dataset contains features related to health indicators s
 
 ## Implementation
 Explore the `Diabetic_prediction_using_SVM.ipynb` notebook to dive into the Python code for data preprocessing, model training, and evaluation using the SVM algorithm. Follow along to understand the step-by-step process of building a predictive model for diabetes.
-
+  
 ## Dependencies
 - Python 3
 - NumPy
